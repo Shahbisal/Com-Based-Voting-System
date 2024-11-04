@@ -81,7 +81,9 @@ Please adhere to this project's `code of conduct`.
 
 ## Support
 
-For any kind of assistance or to set up this project in your system, reach out to me at [LinkedIn](www.linkedin.com/in/bisal-shah-b8bb9b2a1), [Instagram](https://www.instagram.com/kunal__shah1/) or [Portfolio]([https://shahbisal.github.io/PORTFOLIO1/?fbclid=PAZXh0bgNhZW0CMTEAAaaDWQBG9J9PlHHZXvWUugVxBZf6aVRnlojfMCCD-SWifgKeV-zHl6b3K0U_aem_H38o1MjWddIHYTdNatLvYA]). I will try my best to connect with you as soon as possible.
+For any kind of assistance or to set up this project in your system, reach out to me at [LinkedIn](www.linkedin.com/in/bisal-shah-b8bb9b2a1),
+[Instagram](https://www.instagram.com/kunal__shah1/) or 
+[Portfolio]([https://shahbisal.github.io/PORTFOLIO1/). I will try my best to connect with you as soon as possible.
 
 **Note:** Setup and installation guide will be updated soon!
 
